@@ -22,7 +22,6 @@ alt+b 使用默认浏览器打开
 alt+上下方向键  上下移动文本内容
 alt+鼠标单击  多行选中
 ```
-- 我常用的拓展
 
 <h1>yarn的安装</h1>
 
@@ -38,3 +37,7 @@ yarn config set registry https://registry.npm.taobao.org -g
 
 yarn config set sass_binary_site http://cdn.npm.taobao.org/dist/node-sass -g
 ```
+
+<h1>收藏的网址</h1>
+
+- [沙盒代码调试] https://codesandbox.io
