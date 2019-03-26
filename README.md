@@ -38,6 +38,15 @@ yarn config set registry https://registry.npm.taobao.org -g
 yarn config set sass_binary_site http://cdn.npm.taobao.org/dist/node-sass -g
 ```
 
+- 3.解决yarn配置错误无法下载
+```
+yarn config delete proxy
+
+npm config rm proxy
+
+npm config rm https-proxy
+```
+
 <h1>收藏的网址</h1>
 
 - [沙盒代码调试] https://codesandbox.io
